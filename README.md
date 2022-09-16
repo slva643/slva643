@@ -9,7 +9,7 @@
 
 
 ![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&layout=compact)](https://github.com/slva643/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologia que eu uso no meu dia
