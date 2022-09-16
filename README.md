@@ -27,8 +27,8 @@
  <a>
  <img align="right" alt="Vagno you"src="https://gifimage.net/wp-content/uploads/2017/10/docente-gif-9.gif">
   </a>
-- [Curso Em Video - Gustava Ganabara ](https://www.cursoemvideo.com/cursos/)<br/>
-- [Freecodecamp](https://www.freecodecamp.org/)<br/>
-- [Udemy](https://www.udemy.com/)<br/>
-- [Zlibrary - Repositório de livros](https://pt.b-ok.lat)<b
+- Curso Em Video - Gustava Ganabara ](https://www.cursoemvideo.com/cursos/)<br/>
+- Freecodecamp](https://www.freecodecamp.org/)<br/>
+- Udemy -(https://www.udemy.com/)<br/>
+- Zlibrary - Repositório de livros -(https://pt.b-ok.lat)<b
 
