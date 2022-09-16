@@ -1,12 +1,12 @@
 ## <P align="center">Olá, Eu sou o Vagno Silva da Silva👋<P> 
 
-[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
-##
 ![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)  
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643)](https://github.com/slva643) 
 ##
+[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
+
 ## Tecnologia que eu uso no meu dia
 <div style="diplay: inline_block"><br/>
     <img align="center"  alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")>
