@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Olá, Eu sou o Vagno Silva da Silva👋
 
