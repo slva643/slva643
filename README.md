@@ -1,6 +1,6 @@
 ## <P align="center">Olá, Eu sou o Vagno Silva da Silva👋<P> 
 
-align="center"[![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)
+[align="center"![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)
 align="center"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643)](https://github.com/slva643) 
     
 ##  Rede Social
