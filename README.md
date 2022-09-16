@@ -10,7 +10,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
 
 
-
 ![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)
 
 <h2 halign="center" style="font-family:geogia">
@@ -21,8 +20,8 @@
       <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img align="right" alt="Vagno you" src="https://gifimage.net/wp-content/uploads/2017/10/docente-gif-9.gif>
 </div><br/>
-<h3 halign="center" style="font-family:geogia">
-<h3>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h3>
+<h5 halign="center" style="font-family:geogia">
+<h5>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h5>
 
 <h2 halign="center" style="font-family:geogia">
 <h2>Site que aprendo programação:</h2>
