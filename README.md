@@ -15,7 +15,7 @@
     <img align="center"  alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")>
      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img align="center"  alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img align="right" height="300" width="300" alt="Vagno you" src="https://th.bing.com/th/id/R.ccdb2c4699dc225376659f74baeb6713?rik=%2bUolvFe2HWezgA&riu=http%3a%2f%2fclubedosgeeks.com.br%2fwp-content%2fuploads%2f2016%2f01%2ffuncionou.gif&ehk=6l7zo5MRp48LpkrfJOu40oFkJRrJCsZVEaW4IbmpDB4%3d&risl=&pid=ImgRaw&r=0">
+      <img align="right" height="300" width="400" alt="Vagno you" src="https://th.bing.com/th/id/R.ccdb2c4699dc225376659f74baeb6713?rik=%2bUolvFe2HWezgA&riu=http%3a%2f%2fclubedosgeeks.com.br%2fwp-content%2fuploads%2f2016%2f01%2ffuncionou.gif&ehk=6l7zo5MRp48LpkrfJOu40oFkJRrJCsZVEaW4IbmpDB4%3d&risl=&pid=ImgRaw&r=0">
 </div><br/>
 
 Apaixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.
