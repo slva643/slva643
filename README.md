@@ -1,7 +1,7 @@
 <div h1 align="center" style="font-family:fantasy">
  <h1>Olá, Eu sou o Vagno Silva da Silva👋</h1>
 <div h4 halign="center" style="font-family:cursive">
-<h4>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h4><br> 
+<h4>paixonado por tecnologia, educação por mudar a vida das pessoas atraqvés da programção.<h4><br> 
 </dv></div>
 <div align="center">
   <a href="https://github.com/slva643">
