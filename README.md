@@ -4,10 +4,9 @@
 <h4>paixonado por tecnologia, educação e por mudar a vida das pessoas atraqvés da programção.<h4><br> 
 </div></div>
 <div align="center">
-  <a href="https://github.com/slva643">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&theme=dracula&hide_border=false&&layout=compact"/>
-     <img heiht="150em"![slva643]src=("https://github-readme-stats.vercel.app/api?username=slva643&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true")
-  </a>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![slva643's GitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=radical)
 </div><br>
 
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
