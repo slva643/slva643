@@ -1,7 +1,8 @@
-Olá, Eu sou o Vagno Silva da Silva👋
+<div h1 align="center" style="font-family:fantasy">
+ <h1>Olá, Eu sou o Vagno Silva da Silva👋</h1>
 <div h4 halign="center" style="font-family:cursive">
-<h4>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h4>
-</div><br> 
+<h4>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h4><br> 
+</dv></div>
 <div align="center">
   <a href="https://github.com/slva643">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&theme=dracula&hide_border=false&&layout=compact"/>
@@ -28,5 +29,4 @@ Olá, Eu sou o Vagno Silva da Silva👋
 - [Freecodecamp](https://www.freecodecamp.org/)<br/>
 - [Udemy](https://www.udemy.com/)<br/>
 - [Zlibrary - Repositório de livros](https://pt.b-ok.lat)<b
-
 
