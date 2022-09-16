@@ -16,7 +16,7 @@
     <img align="center"  alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")>
      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img align="center" alt="Vagno you" heigt="70" src="https://gifimage.net/wp-content/uploads/2017/10/docente-gif-9.gif">
+     
 </div><br/>
 
 Apaixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.
@@ -26,6 +26,5 @@ Apaixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da
 - [Freecodecamp](https://www.freecodecamp.org/)<br/>
 - [Udemy](https://www.udemy.com/)<br/>
 - [Zlibrary - Repositório de livros](https://pt.b-ok.lat)<br/>
-
-
+ <img align="center" alt="Vagno you" heigt="70" src="https://gifimage.net/wp-content/uploads/2017/10/docente-gif-9.gif"> 
 
