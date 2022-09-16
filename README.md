@@ -26,6 +26,7 @@
 <h2>Site que aprendo programação:</h2>
  <a>
  <img align="right" alt="Vagno you"src="https://gifimage.net/wp-content/uploads/2017/10/docente-gif-9.gif">
+  </a>
 - [Curso Em Video - Gustava Ganabara ](https://www.cursoemvideo.com/cursos/)<br/>
 - [Freecodecamp](https://www.freecodecamp.org/)<br/>
 - [Udemy](https://www.udemy.com/)<br/>
