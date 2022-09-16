@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**slva643/slva643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, Eu sou o Vagno Silva da Silva👋
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologia que eu uso no meu dia
+<div style="diplay: inline_block"><br/>
+    <img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div><br/>
+
+Apaixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.
+
+## Site que aprendo programação:
+- [Curso Em Video - Gustava Ganabara ](https://www.cursoemvideo.com/cursos/)<br/>
+- [Freecodecamp](https://www.freecodecamp.org/)<br/>
+- [Udemy](https://www.udemy.com/)<br/>
+- [Zlibrary - Repositório de livros](https://pt.b-ok.lat)<br/>
