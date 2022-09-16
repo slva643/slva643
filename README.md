@@ -1,8 +1,8 @@
 ## <P align="center">Olá, Eu sou o Vagno Silva da Silva👋<P> 
-
-![VagnoGitHub stats](background-position-x:"center" https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643)](https://github.com/slva643) 
-    
+<div background-position-x:"center">
+ ![VagnoGitHub stats]( https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)<br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643)](https://github.com/slva643) 
+</div>   
 ##  Rede Social
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
     
