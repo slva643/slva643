@@ -8,11 +8,10 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&theme=dracula&hide_border=false&&layout=compact"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=slva643&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
   </a>
-</div>
+</div></br>
 
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit)
-
 <div h2 halign="center" style="font-family:geogia">
 <h2> Tecnologia que eu uso no meu dia</h2>
 </div>
