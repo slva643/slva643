@@ -1,7 +1,8 @@
-<h1 halign="center" style="font-family:geogia">
+<h1 align="center" style="font-family:geogia">
  <h1>Olá, Eu sou o Vagno Silva da Silva👋</h1>
 <h4 halign="center" style="font-family:geogia">
-<h4>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h4>
+<h4>paixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.<h4><br>
+
 <div style="display: ">
 
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
