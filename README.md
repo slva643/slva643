@@ -8,13 +8,13 @@
 
 ![VagnoGitHub stats](https://github-readme-stats.vercel.app/api?username=slva643&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slva643&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia
 <div style="diplay: inline_block"><br/>
     <img align="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"(https://www.estudarti.com.br/o-que-e-html5/)>
      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      
+      <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div><br/>
 
 Apaixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da programção.
 
@@ -23,3 +23,4 @@ Apaixonado por tecnologia, educaçãoe por mudar a vida das pessoas atraqvés da
 - [Freecodecamp](https://www.freecodecamp.org/)<br/>
 - [Udemy](https://www.udemy.com/)<br/>
 - [Zlibrary - Repositório de livros](https://pt.b-ok.lat)<br/>
+
